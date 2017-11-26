@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  console.log("hi");
   window.onkeyup = keyup;
   let us,eu;
   Moneey();
