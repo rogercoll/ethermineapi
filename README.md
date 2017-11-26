@@ -15,10 +15,7 @@ It's useful to see the hashrate, unpaid balance or the value in euros of a miner
 ### Example
 
 Miner id = cdc5984c11caa06f483ca4c949eaef43235436f9
-
 <br>
-<br>
-
 <p align="center">
   <img src="test.png"/>
 </p>
