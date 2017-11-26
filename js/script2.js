@@ -1,9 +1,8 @@
 $(document).ready(function(){
-  console.log("hi");
   window.onkeyup = keyup;
   let us,eu;
   Moneey();
-  checkCookie("username");
+  setTimeout(function(){checkCookie("username");}, 2000);
   function setCookie(cname, cvalue, exdays) {
       var d = new Date();
       d.setTime(d.getTime() + (exdays*24*60*60*1000));
