@@ -9,8 +9,11 @@ It's useful to see the hashrate, unpaid balance or the value in euros of a miner
 
 ## How to observe my statics?
 
-1 - Get your miner id of Ehtermine.org
-2 - Insert it in the text box - Enter
+1 - Get your miner id of [Ethermine](https://ethermine.org/)
+<br>
+2 - Visit the website [Project](https://rogercoll.github.io/ethermineapi/)
+<br>
+3 - Insert it in the text box - Enter
 
 ### Example
 
